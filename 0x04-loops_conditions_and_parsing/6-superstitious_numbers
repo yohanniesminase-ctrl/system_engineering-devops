@@ -16,6 +16,6 @@ do
             ;;
         *)
             ;;
-    case
+    esac
     ((i++))
 done
